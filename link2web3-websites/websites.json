@@ -1,0 +1,86 @@
+[
+  {
+    "website": "Binance",
+    "url": "https://www.binance.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "OKX",
+    "url": "https://www.okx.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "Coinbase",
+    "url": "https://www.coinbase.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "ByBit",
+    "url": "https://www.bybit.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "Bitget",
+    "url": "https://www.bitget.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "Huobi",
+    "url": "https://www.huobi.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "Mexc",
+    "url": "https://www.mexc.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "kucoin",
+    "url": "https://www.kucoin.com",
+    "categories": ["exchanges"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "coinmarketcap",
+    "url": "https://coinmarketcap.com/",
+    "categories": ["data"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "coingecko",
+    "url": "https://www.coingecko.com/",
+    "categories": ["data"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "dune",
+    "url": "https://dune.com/",
+    "categories": ["data"],
+    "logo": "",
+    "description": ""
+  },
+  {
+    "website": "coinmararkhamintelligence.com",
+    "url": "https://arkhamintelligence.com",
+    "categories": ["data"],
+    "logo": "",
+    "description": ""
+  }
+]
